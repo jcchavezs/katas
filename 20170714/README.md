@@ -2,4 +2,4 @@
 
 [Roman numbers](https://en.wikipedia.org/wiki/Roman_numerals)
 
-Pair programming with @walle
+Pair programming with [@walle](https://github.com/walle)
